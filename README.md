@@ -1,24 +1,11 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# DOKERIZANDO EL MUNDO PRESENTACIÓN PARA POLIGLOTA
 
-Things you may want to cover:
+  
+Este repo es para hacer pruebas con docker con rails.
 
-* Ruby version
+Los Objetivos de esta presentación es poder dockerizar y poner en producción en AWS una aplicación.
 
-* System dependencies
+**Link de presentación**
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[https://docs.google.com/presentation/d/1YgGas1W6pnZcwnoTkO3biKboKXtKL7x7uiQmzw0Zscs/edit?usp=sharing](https://docs.google.com/presentation/d/1YgGas1W6pnZcwnoTkO3biKboKXtKL7x7uiQmzw0Zscs/edit?usp=sharing)
